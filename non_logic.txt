@@ -1,0 +1,9 @@
+1. Do you prefer vuejs or reactjs? Why ?
+ Reactjs
+2. What complex things have you done in frontend development ?
+3. why does a UI Developer need to know and understand UX? how far do you understand it?
+    - if UI Developer did not about UX, website will not usable or friendly by user. user always need website that easy to use.
+    and fast loading. the point is if UI 
+4. Give your analysis results regarding https://taskdev.mile.app/login from the UI / UX side!
+    - 
+5. Create a better login page based on https://taskdev.mile.app/login and deploy on https://www.netlify.com (https://www.netlify.com/)!
