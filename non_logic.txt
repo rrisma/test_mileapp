@@ -1,9 +1,24 @@
 1. Do you prefer vuejs or reactjs? Why ?
- Reactjs
+    - The documentaries are both very detailed but I prefer the reactjs because I think it's easier to study.
+
 2. What complex things have you done in frontend development ?
+    - So far there's no big complex thing I've been working on. 
+    But I had considerable experience in this area and I could adapt to a new language or I could easily learn new things.
+
 3. why does a UI Developer need to know and understand UX? how far do you understand it?
-    - if UI Developer did not about UX, website will not usable or friendly by user. user always need website that easy to use.
-    and fast loading. the point is if UI 
+    - UX is indispensable, since a good website depends not only on attracting its views and meeting
+    views but on websites that match the goals it has created and its usage that are not discomposing. 
+    If UI developer doesn't understand ux, he will only prioritize neatness and harmony of the website and tend to override its intended functions. 
+    So it would create multiple revisions if it was in the making and create confusion when it was used by the user. 
+    Of course we don't want to do the frontend because we also have to re-examine the pages that we're going to change into a website.
+    At the core UI developers must know how to make websites that are easy to use user and user easy to understand websites 
+    being used only from seeing them.
+
 4. Give your analysis results regarding https://taskdev.mile.app/login from the UI / UX side!
-    - 
+    - I think the login page is pretty good. But the login card can take a lot of places, 
+    so you can't scroll it but for a login, I don't think that's accurate. 
+    From the side of the back button there I also find it inappropriate, 
+    since it slightly impairs the view of the login page. It's a good thing the back button was replaced by a logo on the hedaer
+    and a link to home, which I think is much better.
+
 5. Create a better login page based on https://taskdev.mile.app/login and deploy on https://www.netlify.com (https://www.netlify.com/)!
