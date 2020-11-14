@@ -22,3 +22,12 @@ for(var i = 0; i < arr.length; i++){
 }
     document.getElementById("array").innerHTML=duplicates;
 }
+
+window.onload = function() {
+    var A = 3;
+    var B = 5;
+    A = A + B;
+    B = A - B;
+    A = A - B;
+    document.getElementById("switch").innerHTML=" A = " + A + "<br> B = " + B;
+}
