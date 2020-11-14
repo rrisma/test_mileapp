@@ -58,11 +58,12 @@ img{
     padding: 8px 12px;
     width: 30%;
     justify-content: space-around;
-    
+    color: #767676;
 }
 
 .contact-text{
     width: 54%;
+   
 }
 
 .contact-language{
@@ -74,6 +75,7 @@ select {
     background-color: transparent;
     border: none;
     margin: 0;
+    color: #767676;
     font-family: inherit;
     font-size: inherit;
     cursor: inherit;
@@ -186,7 +188,7 @@ footer{
     font-size: 0.9rem;
     text-align: center;
     display: block;
-    color: #c6c6c6;
+    color: #888080;
     bottom: 0;
     position: absolute;
     left: 35%;
