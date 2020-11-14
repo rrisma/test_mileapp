@@ -191,7 +191,9 @@ footer{
     color: #888080;
     bottom: 0;
     position: absolute;
-    left: 35%;
+    left:0;
+    right: 0;
+    margin: auto;
 }
 
 @media only screen and (max-width: 414px) and (min-width: 320px){
